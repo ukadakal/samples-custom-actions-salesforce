@@ -7,6 +7,7 @@ This repository contains sample code that aims to demonstrate how to inject cust
 > The sample can be used only with SpreadsheetWeb Server Packages - must have an active [server license](https://www.spreadsheetweb.com/server-pricing/).
 
 > You will also need to have an active Salesforce account in order to request access to their web service. You can register for a free trial account if you are not a paid subscriber.
+> For versions before 6.15.
 
 ## Download
 
